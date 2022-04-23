@@ -124,7 +124,7 @@
     "currentlyNavigating": "Текущий каталог:",
     "deleteMessageMultiple": "Удалить эти файлы ({count})?",
     "deleteMessageSingle": "Удалить этот файл/каталог?",
-    "deleteMessageShare": "Удалить этот общий файл/каталог ({path})?",
+    "deleteMessageShare": "Удалить этот общий файл/каталог?",
     "deleteTitle": "Удалить файлы",
     "displayName": "Отображаемое имя:",
     "download": "Скачать файлы",
